@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1297,6 +1297,10 @@
             <slidelink slideid="_player.5r9W1T2JkLB.5XnT0Fi0p8m" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5r9W1T2JkLB.5piDgKkJPdc" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5r9W1T2JkLB.6b8N1xt22dA" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5r9W1T2JkLB.6WdnBLbSHHV" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5r9W1T2JkLB.6fScZIUQbXW" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5r9W1T2JkLB.62Jiv4KDQwb" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5r9W1T2JkLB.6bUl7HnZKTo" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5w5TOcpC9cR" displaytext="Untitled Scene" expand="true" type="slide">
@@ -1304,28 +1308,15 @@
             <slidelink slideid="_player.5w5TOcpC9cR.6VEWFK7JPEp" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6Kro1q0J3zT" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6Kro1q0J3zT.5qzTmLtACHp" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Kro1q0J3zT.5rXYPwrO8Vq" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
         <slidelink slideid="_player.62th4wtKLYT" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.62th4wtKLYT.6BOjH3fcqDl" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.62th4wtKLYT.6g3Hb50Ygln" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.62th4wtKLYT.6bjkfAw5nKF" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.62th4wtKLYT.5rUE5OCtKlW" displaytext="Multiple Choice" expand="false" type="slide" />
             <slidelink slideid="_player.62th4wtKLYT.64ElQUk3Mp5" displaytext="Multiple Choice" expand="false" type="slide" />
             <slidelink slideid="_player.62th4wtKLYT.5bxdT5avT0n" displaytext="Multiple Choice" expand="false" type="slide" />
             <slidelink slideid="_player.62th4wtKLYT.5sjdBImuNny" displaytext="Multiple Choice" expand="false" type="slide" />
             <slidelink slideid="_player.62th4wtKLYT.63JnDPzVyYg" displaytext="Multiple Choice" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6ASXeZ2O1yf" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6ASXeZ2O1yf.6DKpRFWytC5" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6ASXeZ2O1yf.5ns9tydPB5r" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5Zw8AbQSRpG" displaytext="Untitled Scene" expand="true" type="slide">
